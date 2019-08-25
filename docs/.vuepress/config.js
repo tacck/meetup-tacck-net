@@ -1,13 +1,8 @@
 const moment = require('moment')
 
 module.exports = {
-    locales: {
-        '/': {
-            lang: 'ja-JP', // this will be set as the lang attribute on <html>
-            title: 'Meetup.Tacck.NET',
-            description: 'meetup.tacck.net'
-          },
-    },
+    title: 'Meetup.Tacck.NET',
+    description: 'meetup.tacck.net',
     ga: 'UA-89701884-5',
     themeConfig: {
         lastUpdated: 'Last Updated (JST)',
@@ -29,7 +24,7 @@ module.exports = {
                 transformer: (timestamp, lang) => {
                     // Don't forget to install moment yourself
                     const moment = require('moment')
-                    moment.locale(lang)
+                    moment.locale('ja-JP')
                     return moment(timestamp).format('YYYY-MM-DD HH:mm:SS')
                 }
             }
