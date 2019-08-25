@@ -1,8 +1,13 @@
 const moment = require('moment')
 
 module.exports = {
-    title: 'Meetup.Tacck.NET',
-    description: 'meetup.tacck.net',
+    locales: {
+        '/': {
+            lang: 'ja-JP', // this will be set as the lang attribute on <html>
+            title: 'Meetup.Tacck.NET',
+            description: 'meetup.tacck.net'
+          },
+    },
     ga: 'UA-89701884-5',
     themeConfig: {
         lastUpdated: 'Last Updated (JST)',
