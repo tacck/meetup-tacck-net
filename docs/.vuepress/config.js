@@ -5,7 +5,7 @@ module.exports = {
     description: 'meetup.tacck.net',
     ga: 'UA-89701884-5',
     themeConfig: {
-        lastUpdated: 'Last Updated (JST)',
+        lastUpdated: 'Last Updated',
         nav: [
             { text: 'Home', link: '/' },
         ],
@@ -24,7 +24,7 @@ module.exports = {
                 transformer: (timestamp, lang) => {
                     // Don't forget to install moment yourself
                     const moment = require('moment')
-                    moment.locale('ja-JP')
+                    moment.locale(lang)
                     return moment(timestamp).format('YYYY-MM-DD HH:mm:SS')
                 }
             }
