@@ -1,0 +1,16 @@
+{
+  "name": "meetup.tacck.net",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "vuepress": "^1.0.3"
+  }
+}
