@@ -14,6 +14,7 @@
 
 | 開催名 | 開催日 | 参加人数 | まとめ |
 | --- | :---: | :---: | :---: |
+| [スマートスピーカー体験会 / スマートスピーカーで遊ぼう会@札幌](https://play-smaspi-sap.connpass.com/event/138571/) | 2019/10/26| - | - |
 | [【札幌】スマートスピーカーミーティング 2019/07/25](https://sapporo-gaomar.connpass.com/event/139400/) (開催協力) | 2019/07/25 | 4 / 8 | x |
 | [スマートスピーカーで遊ぼう会@札幌 #2/目指せ! Alexa Developer スキルアワード](https://togetter.com/li/1370800) | 2019/06/26| 5 / 6 | [Togetter](https://togetter.com/li/1287141) |
 | [スマートスピーカーで遊ぼう会@札幌](https://play-smaspi-sap.connpass.com/event/125341/) | 2019/04/24 | 4 / 6 |[Togetter](https://togetter.com/li/1341432) |
