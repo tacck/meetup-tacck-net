@@ -34,7 +34,9 @@ https://speakerdeck.com/tacck/yuruwebmian-qiang-hui-at-zha-huang-number-1?slide=
 
 | 開催名 | 開催日 | 参加人数 | まとめ |
 | --- | :---: | :---: | :---: |
-| ゆるWeb勉強会@札幌 番外編 | 2019/12/?? | ?? / ?? | - |
+| [【再演】ゆるWeb勉強会@札幌 スペシャル / 探索的テストを学ぼう！ with TEF道](https://mild-web-sap.connpass.com/event/157594/) (共催) | 2020/01/22 | - / - | - |
+| [北海道）学生と社会人のライトニングトーク大会](https://connpass.com/event/157248/) (開催協力) | 2020/01/18 | - / - | - |
+| [ゆるWeb勉強会@札幌 スペシャル / 探索的テストを学ぼう！ with TEF道](https://mild-web-sap.connpass.com/event/155043/) (共催) | 2019/12/18 | 17 / 22 | [Togetter](https://togetter.com/li/1444595) |
 | [ゆるWeb勉強会@札幌 #7](https://mild-web-sap.connpass.com/event/147756/) | 2019/10/26 | 18 / 19 | [Togetter](https://togetter.com/li/1398681) |
 | [ゆるWeb勉強会@札幌 #6](https://mild-web-sap.connpass.com/event/132036/) | 2019/08/31 | 18 / 18 | [Togetter](https://togetter.com/li/1398681) |
 | [ゆるWeb勉強会 with Monaca UG in Sapporo](https://monacaug.connpass.com/event/130871/) (共催) | 2019/05/30 | 14 / 23 | [Togetter](https://togetter.com/li/1362088) |
@@ -42,7 +44,7 @@ https://speakerdeck.com/tacck/yuruwebmian-qiang-hui-at-zha-huang-number-1?slide=
 | [ゆるWeb勉強会@札幌 #4](https://mild-web-sap.connpass.com/event/123137/) | 2019/03/30 | 17 / 19 | [Togetter](https://togetter.com/li/1333299) |
 | [ゆるWeb勉強会@札幌 #3](https://mild-web-sap.connpass.com/event/111867/) | 2019/01/19 | 24 / 30 | [Togetter](https://togetter.com/li/1310830) |
 | [ゆるWeb勉強会@札幌 #2](https://mild-web-sap.connpass.com/event/104300/) | 2018/11/09 | 27 / 30 | [Togetter](https://togetter.com/li/1287141) |
-| [ゆるWeb勉強会@札幌 #1](https://mild-web-sap.connpass.com/event/95075/) | 2018/08/28 | 19 / 20 | x |
+| [ゆるWeb勉強会@札幌 #1](https://mild-web-sap.connpass.com/event/95075/) | 2018/08/28 | 19 / 20 | [Twitter 検索](https://twitter.com/search?q=%23%E3%82%86%E3%82%8BWeb%E6%9C%AD%E5%B9%8C%20since%3A2018-08-27%20until%3A2018-08-29&src=typed_query&f=live) |
 
 ## アドベントカレンダー
 
