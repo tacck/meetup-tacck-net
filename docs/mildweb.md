@@ -19,7 +19,7 @@
 
 質問は気軽に、答えはやさしく、みんなで暖かい空気を作っていきましょう！
 
-https://speakerdeck.com/tacck/yuruwebmian-qiang-hui-at-zha-huang-number-1?slide=10
+[https://speakerdeck.com/tacck/yuruwebmian-qiang-hui-at-zha-huang-number-1?slide=10](https://speakerdeck.com/tacck/yuruwebmian-qiang-hui-at-zha-huang-number-1?slide=10)
 
 ::: tip
 * 初めに質問をする人は偉い！
@@ -34,8 +34,12 @@ https://speakerdeck.com/tacck/yuruwebmian-qiang-hui-at-zha-huang-number-1?slide=
 
 | 開催名 | 開催日 | 参加人数 | まとめ |
 | --- | :---: | :---: | :---: |
-| [【再演】ゆるWeb勉強会@札幌 スペシャル / 探索的テストを学ぼう！ with TEF道](https://mild-web-sap.connpass.com/event/157594/) (共催) | 2020/01/22 | - / - | - |
-| [北海道）学生と社会人のライトニングトーク大会](https://connpass.com/event/157248/) (開催協力) | 2020/01/18 | - / - | - |
+| [ゆるWeb勉強会@札幌 OnLine #10](https://mild-web-sap.connpass.com/event/193518/) | 2020/11/30 | 33 / 55 | - |
+| [ゆるWeb勉強会@札幌 OnLine #9](https://mild-web-sap.connpass.com/event/192074/) | 2020/10/26 | 41 / 55 | [Togetter](https://togetter.com/li/1614945) |
+| [ゆるWeb勉強会@札幌 OnLine #8](https://mild-web-sap.connpass.com/event/185835/) | 2020/8/24 | 41 / 54 | [Togetter](https://togetter.com/li/1582042) |
+| [ゆるWeb勉強会@札幌 #8 (中止)](https://mild-web-sap.connpass.com/event/164107/) | 2020/2/15 | - / - | - |
+| [【再演】ゆるWeb勉強会@札幌 スペシャル / 探索的テストを学ぼう！ with TEF道](https://mild-web-sap.connpass.com/event/157594/) (共催) | 2020/01/22 | 19 / 26 | [Togetter](https://togetter.com/li/1459243) |
+| [北海道）学生と社会人のライトニングトーク大会](https://connpass.com/event/157248/) (開催協力) | 2020/01/18 | 57 / 60 | [Togetter](https://togetter.com/li/1457749) |
 | [ゆるWeb勉強会@札幌 スペシャル / 探索的テストを学ぼう！ with TEF道](https://mild-web-sap.connpass.com/event/155043/) (共催) | 2019/12/18 | 17 / 22 | [Togetter](https://togetter.com/li/1444595) |
 | [ゆるWeb勉強会@札幌 #7](https://mild-web-sap.connpass.com/event/147756/) | 2019/10/26 | 18 / 19 | [Togetter](https://togetter.com/li/1398681) |
 | [ゆるWeb勉強会@札幌 #6](https://mild-web-sap.connpass.com/event/132036/) | 2019/08/31 | 18 / 18 | [Togetter](https://togetter.com/li/1398681) |
@@ -48,6 +52,7 @@ https://speakerdeck.com/tacck/yuruwebmian-qiang-hui-at-zha-huang-number-1?slide=
 
 ## アドベントカレンダー
 
+* 2020年 [ゆるWeb勉強会@札幌 Advent Calendar 2020](https://adventar.org/calendars/5068) @ ADVENTAR
 * 2019年 [ゆるWeb勉強会@札幌 Advent Calendar 2019](https://adventar.org/calendars/4273) @ ADVENTAR
 
 ## ハッシュタグ
