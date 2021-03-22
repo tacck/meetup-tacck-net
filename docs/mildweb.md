@@ -34,7 +34,8 @@
 
 | 開催名 | 開催日 | 参加人数 | まとめ |
 | --- | :---: | :---: | :---: |
-| [ゆるWeb勉強会@札幌 OnLine #10](https://mild-web-sap.connpass.com/event/193518/) | 2020/11/30 | 33 / 55 | - |
+| [ゆるWeb勉強会@札幌 OnLine #11](https://mild-web-sap.connpass.com/event/197638/) | 2020/12/28 | 56 / 61 | [Togetter](https://togetter.com/li/1644234) |
+| [ゆるWeb勉強会@札幌 OnLine #10](https://mild-web-sap.connpass.com/event/193518/) | 2020/11/30 | 42 / 55 | [Togetter](https://togetter.com/li/1631448) |
 | [ゆるWeb勉強会@札幌 OnLine #9](https://mild-web-sap.connpass.com/event/192074/) | 2020/10/26 | 41 / 55 | [Togetter](https://togetter.com/li/1614945) |
 | [ゆるWeb勉強会@札幌 OnLine #8](https://mild-web-sap.connpass.com/event/185835/) | 2020/8/24 | 41 / 54 | [Togetter](https://togetter.com/li/1582042) |
 | [ゆるWeb勉強会@札幌 #8 (中止)](https://mild-web-sap.connpass.com/event/164107/) | 2020/2/15 | - / - | - |
