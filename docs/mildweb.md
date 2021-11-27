@@ -34,6 +34,10 @@
 
 | 開催名 | 開催日 | 参加人数 | まとめ |
 | --- | :---: | :---: | :---: |
+| [ゆるWeb勉強会@札幌 OnLine #15](https://mild-web-sap.connpass.com/event/224443/) | 2021/10/25 | 57 / 65 | [Togetter](https://togetter.com/li/1793885) |
+| [ゆるWeb勉強会@札幌 OnLine #14](https://mild-web-sap.connpass.com/event/222162/) | 2021/08/30 | 53 / 54 | [Togetter](https://togetter.com/li/1767712) |
+| [ゆるWeb勉強会@札幌 OnLine #13](https://mild-web-sap.connpass.com/event/214866/) | 2021/06/28 | 58 / 65 | [Togetter](https://togetter.com/li/1737898) |
+| [ゆるWeb勉強会@札幌 OnLine #12](https://mild-web-sap.connpass.com/event/204322/) | 2021/04/26 | 61 / 65 | [Togetter](https://togetter.com/li/1705795) |
 | [ゆるWeb勉強会@札幌 OnLine #11](https://mild-web-sap.connpass.com/event/197638/) | 2020/12/28 | 56 / 61 | [Togetter](https://togetter.com/li/1644234) |
 | [ゆるWeb勉強会@札幌 OnLine #10](https://mild-web-sap.connpass.com/event/193518/) | 2020/11/30 | 42 / 55 | [Togetter](https://togetter.com/li/1631448) |
 | [ゆるWeb勉強会@札幌 OnLine #9](https://mild-web-sap.connpass.com/event/192074/) | 2020/10/26 | 41 / 55 | [Togetter](https://togetter.com/li/1614945) |
@@ -53,6 +57,7 @@
 
 ## アドベントカレンダー
 
+* 2021年 [ゆるWeb勉強会@札幌 Advent Calendar 2021](https://adventar.org/calendars/6270) @ ADVENTAR
 * 2020年 [ゆるWeb勉強会@札幌 Advent Calendar 2020](https://adventar.org/calendars/5068) @ ADVENTAR
 * 2019年 [ゆるWeb勉強会@札幌 Advent Calendar 2019](https://adventar.org/calendars/4273) @ ADVENTAR
 
