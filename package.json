@@ -14,7 +14,7 @@
     "vuepress-plugin-sidebar": "^0.2.1"
   },
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "vuepress": "^1.0.3"
   }
 }
