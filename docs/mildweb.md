@@ -34,6 +34,12 @@
 
 | 開催名 | 開催日 | 参加人数 | まとめ |
 | --- | :---: | :---: | :---: |
+| [ゆるWeb勉強会@札幌 OnLine #21](https://mild-web-sap.connpass.com/event/262287/) | 2022/10/31 | 32 / 45 | [Togetter](https://togetter.com/li/1967811) |
+| [ゆるWeb勉強会@札幌 OnLine #20](https://mild-web-sap.connpass.com/event/256909/) | 2022/08/29 | 30 / 45 | [Togetter](https://togetter.com/li/1937755) |
+| [ゆるWeb勉強会@札幌 OnLine #19](https://mild-web-sap.connpass.com/event/246984/) | 2022/06/27 | 35 / 45 | [Togetter](https://togetter.com/li/1908439) |
+| [ゆるWeb勉強会@札幌 OnLine #18](https://mild-web-sap.connpass.com/event/244274/) | 2022/04/25 | 37 / 45 | [Togetter](https://togetter.com/li/1878414) |
+| [ゆるWeb勉強会@札幌 OnLine #17](https://mild-web-sap.connpass.com/event/238173/) | 2022/02/28 | 37 / 45 | [Togetter](https://togetter.com/li/1852738) |
+| [ゆるWeb勉強会@札幌 OnLine #16](https://mild-web-sap.connpass.com/event/229117/) | 2021/12/27 | 33 / 48 | [Togetter](https://togetter.com/li/1822754) |
 | [ゆるWeb勉強会@札幌 OnLine #15](https://mild-web-sap.connpass.com/event/224443/) | 2021/10/25 | 57 / 65 | [Togetter](https://togetter.com/li/1793885) |
 | [ゆるWeb勉強会@札幌 OnLine #14](https://mild-web-sap.connpass.com/event/222162/) | 2021/08/30 | 53 / 54 | [Togetter](https://togetter.com/li/1767712) |
 | [ゆるWeb勉強会@札幌 OnLine #13](https://mild-web-sap.connpass.com/event/214866/) | 2021/06/28 | 58 / 65 | [Togetter](https://togetter.com/li/1737898) |
