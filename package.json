@@ -10,11 +10,11 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@vuepress/plugin-google-analytics": "^1.2.0",
+    "@vuepress/plugin-google-analytics": "^1.9.7",
     "vuepress-plugin-sidebar": "^0.2.1"
   },
   "dependencies": {
-    "moment": "^2.24.0",
-    "vuepress": "^1.0.3"
+    "moment": "^2.29.4",
+    "vuepress": "^1.9.7"
   }
 }
